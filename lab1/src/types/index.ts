@@ -41,3 +41,5 @@ export interface ProductDisplayProps {
 }
 
 //why am I getting React.ReactNode is not defined?
+
+//how am I supposed to make commits while npm run dev is running?
